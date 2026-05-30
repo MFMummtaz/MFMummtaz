@@ -10,5 +10,11 @@ Most of my projects are focused on Deep-Learning, Computer Vision, and Sensors F
 
 <br/>
 
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/mfairuzm/)
-[<img align="left" alt="Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:m.fairuzmumtaz@gmail.com)
+
+
+<a href="https://www.linkedin.com/in/mfairuzm/">
+  <img align="left" alt="LinkedIn" width="22px" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:m.fairuzmumtaz@gmail.com">
+  <img align="left" alt="Email" width="22px" src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
+</a>
