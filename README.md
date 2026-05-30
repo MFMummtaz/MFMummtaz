@@ -1,16 +1,14 @@
-## Hi there 👋
+### 👋 Hi, there
 
-<!--
-**MFMummtaz/MFMummtaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Electronics Engineering Master's Student** with extensive experience in 3D design, PCB Design, IoT, Robotics, Embedded Systems and AI-on-device implementation.
 
-Here are some ideas to get you started:
+### 🚀 My Skills
+Most of my projects are focused on Deep-Learning, Computer Vision, and Sensors Fusion, so my skills are based on that:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Programming Languages:** [Proficient in Python, C++, C. Familiar with Verilog]
+- **Skills & Tools:** [OpenCV, PyTorch, Tensorflow, ROS2, Isaacsim, Autodesk Fusion360, and EAGLE]
+
+<br/>
+
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/mfairuzm/)
+[<img align="left" alt="Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](m.fairuzmumtaz@gmail.com)
