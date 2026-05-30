@@ -1,6 +1,6 @@
 ### 👋 Hi, there
 
-💻 **Electronics Engineering Master's Student** with extensive experience in 3D design, PCB Design, IoT, Robotics, Embedded Systems and AI-on-device implementation.
+- 💻 **Electronics Engineering Master's Student** with extensive experience in 3D design, PCB Design, IoT, Robotics, Embedded Systems and AI-on-device implementation.
 
 ### 🚀 My Skills
 Most of my projects are focused on Deep-Learning, Computer Vision, and Sensors Fusion, so my skills are based on that:
